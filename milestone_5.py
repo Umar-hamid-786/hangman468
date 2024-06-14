@@ -45,9 +45,6 @@ class Hangman:
         self.list_of_guesses = []
 
 
-
-
-
     def __check_guess(self, guess):    
         '''
         Checks if the letter is in the word.
